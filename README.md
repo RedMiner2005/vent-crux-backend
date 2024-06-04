@@ -1,9 +1,5 @@
-# README
+# Vent Backend - by Pratyush
+Voice Every Nagging Thought - A project for CRUx R3, 2023-24 Sem 2. The task is to create a semi-social mobile app with Flutter that lets users share their thoughts about other users anonymously.
 
-This is the [Flask](http://flask.pocoo.org/) [quick start](http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application) example for [Render](https://render.com).
-
-The app in this repo is deployed at [https://flask.onrender.com](https://flask.onrender.com).
-
-## Deployment
-
-Follow the guide at https://render.com/docs/deploy-flask.
+This repo manages the backend of the main project, which you can find [here](https://github.com/RedMiner2005/vent-crux).
+The Flask server will manage all calls to the LLM in use, which makes it easier for improvements to the model being used. Moreover, messages being sent to users, extracting registered users from the contact list
