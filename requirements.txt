@@ -3,3 +3,4 @@ Gunicorn
 groq
 firebase-admin
 python-dotenv
+waitress

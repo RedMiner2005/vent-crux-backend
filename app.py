@@ -1,22 +1,17 @@
-from os import getenv
 from random import random, seed
 from flask import Flask, request
 from groq import Groq
 import json
 import firebase_admin
-from dotenv import load_dotenv
-from pathlib import Path
-from consts import *
+from consts import Consts
 
 
 app = Flask("VENT-Backend")
 
-env_path = Path.cwd().joinpath(f"{ENV_FILE}")
-load_dotenv(dotenv_path=env_path)
-
-client = Groq(api_key=getenv("GROQ_API_KEY"))
+consts = Consts()
+client = Groq(api_key=consts.GROQ_API_KEY)
 firebase = firebase_admin.initialize_app()
-seed(SEED)
+seed(consts.SEED)
 
 
 # Process the prompt data
@@ -25,7 +20,7 @@ with open('llm/converted.json', 'r') as file:
 trimmed_data = [converted_data[0]]
 
 for i in range(1, len(converted_data), 2):
-    if random() < PROMPT_PROPORTION:
+    if random() < consts.PROMPT_PROPORTION:
         trimmed_data.append(converted_data[i])
         trimmed_data.append(converted_data[i+1])
 
@@ -38,7 +33,7 @@ def home():
 @app.route('/process', methods=['POST'])
 def process():
     try:
-        input_string = request.get_json(force=True)[INPUT_KEY]
+        input_string = request.get_json(force=True)[consts.INPUT_KEY]
         assert input_string is not None
     except AssertionError as e:
         return {"error": "Please pass the prompt as an argument (JSON, with the key 'prompt')."}, 400
@@ -64,4 +59,8 @@ def process():
         return {"error": str(e)}, 500
 
 
-app.run(port=getenv("PORT"), debug=IS_DEBUG)
+if consts.IS_DEBUG == '1':
+    app.run(port=consts.PORT, debug=consts.IS_DEBUG)
+else:
+    from waitress import serve
+    serve(app, host="0.0.0.0", port=consts.PORT)
