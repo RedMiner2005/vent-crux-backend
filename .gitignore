@@ -105,3 +105,5 @@ venv.bak/
 
 # Firebase Service Account
 service_account.json
+
+test.py

@@ -3,7 +3,9 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 class Consts:
-    INPUT_KEY="prompt"
+    PROCESS_INPUT_KEY="prompt"
+    SEND_USER_KEY="toUser"
+    SEND_MSG_KEY="message"
     PROMPT_PROPORTION=0.7
     SEED=20102005
     ENV_FILE=".env"
