@@ -853,818 +853,98 @@
     },
     {
         "role": "user",
-        "content": "He always knows how to make me laugh."
+        "content": "You are great"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"You always know how to make someone laugh.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are great\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I wish I had her confidence."
+        "content": "You are handsome"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wishes they had your confidence.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are handsome\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I can't believe he would do that to her."
+        "content": "You are intelligent"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone can't believe you would do that to someone.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are intelligent\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I'm so glad we're friends."
+        "content": "You are talented"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so glad you're friends.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are talented\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I'm going to miss him when he graduates."
+        "content": "You are kind"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is going to miss you when you graduate.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are kind\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I think she's really starting to grow on me."
+        "content": "You are funny"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"You are really starting to grow on someone.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are funny\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I'm so proud of everything she's accomplished."
+        "content": "You are helpful"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so proud of everything you've accomplished.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are helpful\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I'm not sure I can forgive him for what he did."
+        "content": "You are creative"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is not sure they can forgive you for what you did.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are creative\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I really admire her strength and resilience."
+        "content": "You are reliable"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone really admires your strength and resilience.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are reliable\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I hope he knows how much I care about him."
+        "content": "You are trustworthy"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone hopes you know how much they care about you.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are trustworthy\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I'm so happy to see her happy."
+        "content": "You are hardworking"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so happy to see you happy.\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are hardworking\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
-        "content": "I'm excited to see what the future holds for her."
+        "content": "You are inspiring"
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is excited to see what the future holds for you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm grateful for his friendship."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is grateful for your friendship.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm sorry for the way I acted earlier."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is sorry for the way they acted earlier.\", \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so lucky to have her in my life."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "I'm thinking about planning a surprise party for him."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is thinking about planning a surprise party for you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I really admire his work ethic."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone really admires your work ethic.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I hope she gets well soon."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone hopes you get well soon.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so happy for his success."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so happy for your success.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm going to miss working with him."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is going to miss working with you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so glad I met her."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so glad they met you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm impressed by her intelligence."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is impressed by your intelligence.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I can't wait to see what he does next."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone can't wait to see what you do next.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm grateful for her support."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is grateful for your support.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so angry at him right now, but I know it's not entirely his fault."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so angry at you right now, but they know it's not entirely your fault.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I hope she knows how proud I am of her."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone hopes you know how proud they are of you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm worried about what this means for her."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is worried about what this means for you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I really appreciate her honesty."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone really appreciates your honesty.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm going to miss her terribly when she moves."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is going to miss you terribly when you move.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so glad we met."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so glad you met.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I think she's a really special person."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you're a really special person.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I wish I could spend more time with him."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone wishes they could spend more time with you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so jealous of her talent."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so jealous of your talent.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I can't believe how much he's grown."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone can't believe how much you've grown.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so happy to have him as my brother."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so happy to have you as their brother.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so proud of the woman she's become."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so proud of the person you've become.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I love spending time with her."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone loves spending time with you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so grateful to have him in my life."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so grateful to have you in their life.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm really impressed by her dedication."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is really impressed by your dedication.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I can always count on her to be there for me."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone can always count on you to be there for them.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so glad she's my friend."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so glad you're their friend.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I admire his passion for his work."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone admires your passion for your work.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I hope he knows how much he means to me."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone hopes you know how much you mean to them.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I love her sense of humor."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone loves your sense of humor.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so inspired by her strength."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so inspired by your strength.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so grateful for his friendship."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so grateful for your friendship.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so lucky to have her in my life."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "I'm really impressed by his intelligence."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is really impressed by your intelligence.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so proud of everything she's accomplished."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so proud of everything you've accomplished.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so happy to see her happy."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so happy to see you happy.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm grateful for his support."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is grateful for your support.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I admire his dedication to his family."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone admires your dedication to your family.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so glad we're friends."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so glad you're friends.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm going to miss her when she graduates."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is going to miss you when you graduate.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I think she's really starting to grow on me."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"You are really starting to grow on someone.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so proud of everything he's accomplished."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so proud of everything you've accomplished.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm not sure I can forgive her for what she did."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is not sure they can forgive you for what you did.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I really admire his strength and resilience."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone really admires your strength and resilience.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I hope she knows how much I care about her."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone hopes you know how much they care about you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so happy to see him happy."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so happy to see you happy.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm excited to see what the future holds for him."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is excited to see what the future holds for you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm grateful for her friendship."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is grateful for your friendship.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm sorry for the way I acted earlier."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so lucky to have him in my life."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "I'm thinking about planning a surprise party for her."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is thinking about planning a surprise party for you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I really admire her work ethic."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone really admires your work ethic.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I hope he gets well soon."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone hopes you get well soon.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so happy for her success."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so happy for your success.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm going to miss working with her."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is going to miss working with you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so glad I met him."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so glad they met you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm impressed by his intelligence."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is impressed by your intelligence.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I can't wait to see what she does next."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone can't wait to see what you do next.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm grateful for his support."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is grateful for your support.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so angry at her right now, but I know it's not entirely her fault."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so angry at you right now, but they know it's not entirely your fault.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I hope he knows how proud I am of him."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone hopes you know how proud they are of you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm worried about what this means for him."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is worried about what this means for you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I really appreciate his honesty."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone really appreciates your honesty.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm going to miss him terribly when he moves."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is going to miss you terribly when you move.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so glad we met."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so glad you met.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I think he's a really special person."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you're a really special person.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I wish I could spend more time with her."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone wishes they could spend more time with you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so jealous of his talent."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so jealous of your talent.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I can't believe how much she's grown."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone can't believe how much you've grown.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so happy to have her as my sister."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so happy to have you as their sister.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so proud of the man he's become."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so proud of the person you've become.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I love spending time with him."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone loves spending time with you.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so grateful to have her in my life."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so grateful to have you in their life.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm really impressed by her dedication."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is really impressed by your dedication.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I can always count on him to be there for me."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone can always count on you to be there for them.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I'm so glad he's my friend."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so glad you're their friend.\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "Rajesh is so annoying"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are annoying\", \"contact\": \"Rajesh\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I think I am going crazy"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "Akhil is a terrible singer"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are a terrible singer\", \"contact\": \"Akhil\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I love my parents"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "What is the meaning of life?"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "Gayathri is the worst driver I know."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are the worst driver they know.\", \"contact\": \"Gayathri\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I am going to sleep"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "Pratyush should really get a haircut."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you should really get a haircut.\", \"contact\": \"Pratyush\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "Sanjay is such a great cook!"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are a great cook!\", \"contact\": \"Sanjay\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I think I need a vacation."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "Aryan is so full of himself."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are full of yourself.\", \"contact\": \"Aryan\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "Sanjana is a terrible dancer."
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are a terrible dancer.\", \"contact\": \"Sanjana\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are inspiring\", \"contact\": null, \"isValid\": true}"
     }
 ]
