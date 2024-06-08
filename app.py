@@ -74,7 +74,7 @@ def send():
         assert to_user is not None
         assert message is not None
         db = firestore.client()
-        doc_ref = db.collection('users').document(get_sha256_hash(to_user))
+        doc_ref = db.collection('users').document(to_user)  # to_user is now the sha256 hash of the contact
         current_time = str(time_ns() // 1000000).encode('utf-8')
         encoded_time = base64.b64encode(current_time).decode('utf-8')
         doc_ref.update({
@@ -94,9 +94,9 @@ def send():
         response = messaging.send(message)
         return {"status": "success"}
     except AssertionError as e:
-        return {"error": f"Please pass the correct args (JSON, '{consts.SEND_USER_KEY}', '{consts.SEND_MSG_KEY}')."}, 400
+        return {"error": f"Please pass the correct args (JSON, '{consts.SEND_USER_KEY}' (SHA256 hash of an e164 number), '{consts.SEND_MSG_KEY}')."}, 400
     except Exception as e:
-        return {"error": "Send message issue: " + str(e)}, 400
+        return {"error": "Send message issue (Try checking if you are sending the hash of the number): " + str(e)}, 400
 
 
 if consts.IS_DEBUG == '1':
