@@ -1,7 +1,7 @@
 from random import random, seed
 from hashlib import sha256
 import base64
-from time import time
+from time import time_ns
 from flask import Flask, request
 from groq import Groq
 import json
@@ -75,7 +75,7 @@ def send():
         assert message is not None
         db = firestore.client()
         doc_ref = db.collection('users').document(get_sha256_hash(to_user))
-        current_time = str(time()).encode('utf-8')
+        current_time = str(time_ns() // 1000000).encode('utf-8')
         encoded_time = base64.b64encode(current_time).decode('utf-8')
         doc_ref.update({
             'inbox': firestore.ArrayUnion([{'time': encoded_time, 'message': message}]),
