@@ -9,7 +9,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wants to punch you in the face 👊\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone wants to punch you in the face\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -17,7 +17,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are very talented 🤩\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are very talented\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -25,7 +25,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone doesn't trust you 😤\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone doesn't trust you\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -33,7 +33,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"You make someone want to puke 🤮\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"You make someone want to puke\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -41,7 +41,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wishes you would just disappear 🪄\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone wishes you would just disappear\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -65,7 +65,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Is it possible that you are an alien? 👽\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Is it possible that you are an alien?\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -73,7 +73,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are really annoying 😒\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are really annoying\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -81,7 +81,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone just can't stand you anymore 😠\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone just can't stand you anymore\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -89,7 +89,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are the worst person they've ever met 👎\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are the worst person they've ever met\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -97,7 +97,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is not sure if they should trust you 🤔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is not sure if they should trust you\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -105,7 +105,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone doesn't like the way you talk 🤐\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone doesn't like the way you talk\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -121,7 +121,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is jealous of your success 😒\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is jealous of your success\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -129,7 +129,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are the best 😊\", \"contact\": \"Akhil\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are the best\", \"contact\": \"Akhil\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -137,7 +137,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone can't believe you said that about them 😲\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone can't believe you said that about them\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -145,7 +145,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone will miss you when you move away ☹️\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone will miss you when you move away\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -153,7 +153,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone has a crush on you 💖\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone has a crush on you\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -161,7 +161,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you're really cool 😎\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you're really cool\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -169,7 +169,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is proud of your achievements ✨\", \"contact\": \"Priya\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is proud of your achievements\", \"contact\": \"Priya\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -177,7 +177,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is really disappointed in what you did ☹️\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is really disappointed in what you did\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -185,7 +185,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is worried about your health 🩺\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is worried about your health\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -193,7 +193,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone admires your courage 💪\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone admires your courage\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -201,7 +201,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone can't stand your arrogance 😠\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone can't stand your arrogance\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -209,7 +209,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is not sure what to think of you 🤔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is not sure what to think of you\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -217,7 +217,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is surprised you got the job 😲\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is surprised you got the job\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -225,7 +225,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is happy to hear that you're doing well 😊\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is happy to hear that you're doing well\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -233,7 +233,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone forgives you for what you did 🙏\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone forgives you for what you did\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -241,7 +241,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is grateful for your help 🙏\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is grateful for your help\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -249,7 +249,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is sorry for what they said to you 😔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is sorry for what they said to you\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -257,7 +257,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is so angry at you right now 😠\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is so angry at you right now\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -265,7 +265,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone hopes you know how much you mean to them ❤️\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone hopes you know how much you mean to them\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -273,7 +273,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is thinking about what you said 🤔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is thinking about what you said\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -281,7 +281,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone really loves the way you sing ❤️\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone really loves the way you sing\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -289,7 +289,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you have a crush on them 😳\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you have a crush on them\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -297,7 +297,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you shouldn't be allowed to do that 😠\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you shouldn't be allowed to do that\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -305,7 +305,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are dumb 😒\", \"contact\": \"Kevin\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are dumb\", \"contact\": \"Kevin\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -313,7 +313,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is not a big fan of you 😔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is not a big fan of you\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -329,7 +329,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are beautiful 😍\", \"contact\": \"Priya\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are beautiful\", \"contact\": \"Priya\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -337,7 +337,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone loves the way you smile 😊\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone loves the way you smile\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -353,7 +353,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wonders if you are lying 🤔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone wonders if you are lying\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -361,7 +361,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone feels like you are using them 😔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone feels like you are using them\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -369,7 +369,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone doesn't think they can ever forgive you 💔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone doesn't think they can ever forgive you\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -377,7 +377,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are the most amazing person they know 🤩\", \"contact\": \"Priya\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are the most amazing person they know\", \"contact\": \"Priya\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -393,7 +393,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is going to get you 😠\", \"contact\": \"Pratyush\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is going to get you\", \"contact\": \"Pratyush\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -401,7 +401,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are a loser 👎\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are a loser\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -409,7 +409,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wishes they could be more like you 🤩\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone wishes they could be more like you\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -417,7 +417,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are planning something evil 👿\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are planning something evil\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -433,7 +433,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Is it possible that you are the one? 🤔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Is it possible that you are the one?\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -441,7 +441,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is not sure if they will ever talk to you again 😔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is not sure if they will ever talk to you again\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -449,7 +449,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone will never forget what you did 😠\", \"contact\": \"Rajesh\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone will never forget what you did\", \"contact\": \"Rajesh\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -609,7 +609,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone was impressed by your performance today. ✨\", \"contact\": \"Pratyush\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone was impressed by your performance today.\", \"contact\": \"Pratyush\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -617,7 +617,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is going to your party this weekend. 🎉\", \"contact\": \"Riya\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is going to your party this weekend.\", \"contact\": \"Riya\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -625,7 +625,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone ran into your brother at the store. 👀\", \"contact\": \"Akhil\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone ran into your brother at the store.\", \"contact\": \"Akhil\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -633,7 +633,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Have someone seen your new car? 🚗\", \"contact\": \"Gayathri\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Have someone seen your new car?\", \"contact\": \"Gayathri\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -641,7 +641,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone borrowed this book from your library. 📚\", \"contact\": \"Rajesh\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone borrowed this book from your library.\", \"contact\": \"Rajesh\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -649,7 +649,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is going on a date with your friend. 💖\", \"contact\": \"Priya\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is going on a date with your friend.\", \"contact\": \"Priya\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -657,7 +657,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone can't believe what you've done this time. 😠\", \"contact\": \"Arjun\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone can't believe what you've done this time.\", \"contact\": \"Arjun\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -665,7 +665,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone is worried about your health. 😔\", \"contact\": \"Jake\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone is worried about your health.\", \"contact\": \"Jake\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -673,7 +673,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone had lunch with your family yesterday. 😊\", \"contact\": \"Kevin\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone had lunch with your family yesterday.\", \"contact\": \"Kevin\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -681,7 +681,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone saw a movie with your sister last night. 🍿\", \"contact\": \"Priya\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone saw a movie with your sister last night.\", \"contact\": \"Priya\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -689,7 +689,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone loves you ❤️\", \"contact\": \"Pratyush\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone loves you\", \"contact\": \"Pratyush\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -697,7 +697,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you can eat anything 🍕\", \"contact\": \"Gayathri\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you can eat anything \", \"contact\": \"Gayathri\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -705,7 +705,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone likes you 💖\", \"contact\": \"Jake\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone likes you\", \"contact\": \"Jake\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -721,7 +721,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wants to give you a toothbrush 🪥\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone wants to give you a toothbrush\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -729,7 +729,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wants you to eat fish 🐟\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone wants you to eat fish\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -737,7 +737,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone suggests you to sleep 😴\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone suggests you to sleep\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -745,7 +745,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone dislikes your thoughts 😠\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone dislikes your thoughts\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -753,7 +753,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Somebody thinks you are nice 😊\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Somebody thinks you are nice\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -761,7 +761,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wants you to eat your food 🍽️\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone wants you to eat your food\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -769,7 +769,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone doesn't want to see you 💔\", \"contact\": \"Rajesh\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone doesn't want to see you\", \"contact\": \"Rajesh\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -785,7 +785,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone cries when they see you 😭\", \"contact\": \"Arjun\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone cries when they see you\", \"contact\": \"Arjun\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -793,7 +793,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wonders if you are really dumb? 🤔\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone wonders if you are really dumb.\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -801,7 +801,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"You are going to die today. 💀\", \"contact\": \"Pratyush\", \"isValid\": true}"
+        "content": "{\"toSend\": \"You are going to die today.\", \"contact\": \"Pratyush\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -809,7 +809,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone loves you ❤️\", \"contact\": \"Aryan\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone loves you\", \"contact\": \"Aryan\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -825,7 +825,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are cute 😊\", \"contact\": \"Sanjana\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are cute\", \"contact\": \"Sanjana\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -833,7 +833,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone wants to be your best friend 💖\", \"contact\": \"Sanjay\", \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone wants to be your best friend \", \"contact\": \"Sanjay\", \"isValid\": true}"
     },
     {
         "role": "user",
@@ -857,7 +857,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are great 🤩\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are great\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -865,7 +865,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are handsome 😍\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are handsome\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -873,7 +873,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are intelligent 🧠\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are intelligent\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -881,7 +881,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are talented ✨\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are talented\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -889,7 +889,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are kind 😊\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are kind\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -897,7 +897,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are funny 😂\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are funny\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -905,7 +905,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are helpful 🙏\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are helpful\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -913,7 +913,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are creative ✨\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are creative\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -921,7 +921,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are reliable 👍\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are reliable\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -929,7 +929,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are trustworthy 😊\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are trustworthy\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -937,7 +937,7 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are hardworking 💪\", \"contact\": null, \"isValid\": true}"
+        "content": "{\"toSend\": \"Someone thinks you are hardworking\", \"contact\": null, \"isValid\": true}"
     },
     {
         "role": "user",
@@ -945,150 +945,6 @@
     },
     {
         "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are inspiring 🤩\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "What's up with Benin, he is driving me crazy"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"You drive someone crazy 😵\", \"contact\": \"Benin\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "Rakshita is bored"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are bored 🥱\", \"contact\": \"Rakshita\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "That football match was horrible"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "Pavithra is helping me, thank you Pavithra"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"You are helping someone, and they thank you 😊\", \"contact\": \"Pavithra\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I secretly admire you"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone is secretly admiring you from afar 😳\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I give you a virtual high-five"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"You've been given a virtual high-five 🙌\", \"contact\": null, \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "John is so talented, he's going to be a star"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are so talented and you're going to be a star 🤩\", \"contact\": \"John\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "Ugh, Emily is late again"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are late again 😠\", \"contact\": \"Emily\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I can't believe Michael aced that test!"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone can't believe you aced that test! 😲\", \"contact\": \"Michael\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "This traffic is unbearable"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "Sophia makes the best cookies ever"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you make the best cookies ever 🍪\", \"contact\": \"Sophia\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I am going to sleep now"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "David, you are a true friend"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks you are a true friend ❤️\", \"contact\": \"David\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "This pizza is delicious"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
-    },
-    {
-        "role": "user",
-        "content": "Olivia's laugh is contagious"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone thinks your laugh is contagious 😄\", \"contact\": \"Olivia\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I wish Daniel would stop bragging"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone wishes you would stop bragging 🙄\", \"contact\": \"Daniel\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I had a great time with you, Sarah"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": \"Someone had a great time with you 😊\", \"contact\": \"Sarah\", \"isValid\": true}"
-    },
-    {
-        "role": "user",
-        "content": "I am not feeling well today"
-    },
-    {
-        "role": "assistant",
-        "content": "{\"toSend\": null, \"contact\": null, \"isValid\": false}"
+        "content": "{\"toSend\": \"Someone thinks you are inspiring\", \"contact\": null, \"isValid\": true}"
     }
 ]

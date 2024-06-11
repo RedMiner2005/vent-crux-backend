@@ -19,7 +19,7 @@ seed(consts.SEED)
 
 
 # Process the prompt data
-with open('llm/converted.json', 'r') as file:
+with open('llm/converted.json', 'r', encoding='utf-8') as file:
     converted_data = json.load(file)
 trimmed_data = [converted_data[0]]
 
@@ -42,7 +42,7 @@ def home():
 def process():
     try:
         input_string = request.get_json(force=True)[consts.PROCESS_INPUT_KEY]
-        assert input_string is not None
+        assert input_string is not None and len(input_string) < 300
     except AssertionError as e:
         return {"error": f"Please pass the prompt as an argument (JSON, with the key '{consts.PROCESS_INPUT_KEY}')."}, 400
     except Exception as e:
@@ -56,7 +56,7 @@ def process():
                 "content": input_string
             }],
             temperature=0,
-            max_tokens=1024,
+            max_tokens=8192,
             top_p=1,
             stream=False,
             response_format={"type": "json_object"},
@@ -96,6 +96,8 @@ def send():
     except AssertionError as e:
         return {"error": f"Please pass the correct args (JSON, '{consts.SEND_USER_KEY}' (SHA256 hash of an e164 number), '{consts.SEND_MSG_KEY}')."}, 400
     except Exception as e:
+        if str(e) == "Message.token must be a non-empty string.":
+            return {"status": "success"}
         return {"error": "Send message issue (Try checking if you are sending the hash of the number): " + str(e)}, 400
 
 

@@ -6,7 +6,7 @@ class Consts:
     PROCESS_INPUT_KEY="prompt"
     SEND_USER_KEY="toUser"
     SEND_MSG_KEY="message"
-    PROMPT_PROPORTION=0.7
+    PROMPT_PROPORTION=1
     SEED=20102005
     ENV_FILE=".env"
     IS_DEBUG=None
